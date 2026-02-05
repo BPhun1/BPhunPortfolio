@@ -28,7 +28,7 @@ const Hero = () => {
 
           <div className="flex items-center justify-center gap-6 mb-12">
             <a
-              href="https://github.com"
+              href="https://github.com/BPhun1"
               target="_blank"
               rel="noopener noreferrer"
               className="social-icon"
@@ -38,7 +38,7 @@ const Hero = () => {
             </a>
 
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/brian-phun-34a3a532b/"
               target="_blank"
               rel="noopener noreferrer"
               className="social-icon"
@@ -48,7 +48,7 @@ const Hero = () => {
             </a>
 
             <a
-              href="mailto:bphun10.email@example.com"
+              href="mailto:bphun10@gmail.com"
               className="social-icon"
               aria-label="Email"
             >
