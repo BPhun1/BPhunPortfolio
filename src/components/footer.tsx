@@ -14,7 +14,7 @@ const Footer = () => {
 
           <div className="flex items-center gap-6">
             <a
-              href="https://github.com"
+              href="https://github.com/BPhun1"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-gray-700 rounded-full hover:bg-blue-600 transition-colors"
@@ -22,7 +22,7 @@ const Footer = () => {
               <Github size={20} />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/brian-phun-34a3a532b/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-gray-700 rounded-full hover:bg-blue-600 transition-colors"
@@ -30,7 +30,7 @@ const Footer = () => {
               <Linkedin size={20} />
             </a>
             <a
-              href="mailto:your.email@example.com"
+              href="mailto:bphun10@gmail.com"
               className="p-3 bg-gray-700 rounded-full hover:bg-blue-600 transition-colors"
             >
               <Mail size={20} />
