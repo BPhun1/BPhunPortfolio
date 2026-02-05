@@ -14,7 +14,7 @@ const Hero = () => {
       <div className="max-w-6xl mx-auto px-6 py-20 text-center relative">
         <div className="animate-fade-in">
           <h1 className="text-5xl md:text-7xl font-bold text-gray-800 mb-6">
-            Hi, I'm <span className="text-blue-600">Your Name</span>
+            Hi, I'm <span className="text-blue-600">Brian Phun</span>
           </h1>
 
           <p className="text-xl md:text-2xl text-gray-600 mb-8">
@@ -48,7 +48,7 @@ const Hero = () => {
             </a>
 
             <a
-              href="mailto:your.email@example.com"
+              href="mailto:bphun10.email@example.com"
               className="social-icon"
               aria-label="Email"
             >
